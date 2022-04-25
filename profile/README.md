@@ -26,7 +26,7 @@ Architecture
 ---
 
 <div>
-  <img alt="architecture-imperative" src="./architecture-imperative.png" width="48%">
+  <img alt="architecture-imperative" src="architecture-imperative.png" width="48%">
   <img alt="architecture-reactive" src="architecture-reactive.png" width="47%">
 </div>
 
