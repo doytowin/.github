@@ -1,7 +1,7 @@
-Repositories of DoytoWin 
+DoytoQuery Summary
 ---
 
-## Versions
+## Releases
 
 | Module | Snapshot | Release |
 | --- | --- | --- |
@@ -13,7 +13,7 @@ Repositories of DoytoWin
 | doyto-query-jdbc | [![jdbc-snapshots-img]](https://oss.sonatype.org/content/repositories/snapshots/win/doyto/doyto-query-jdbc/) | [![jdbc-release-img]](https://search.maven.org/artifact/win.doyto/doyto-query-jdbc/) |
 | doyto-query-web-common | [![web-common-snapshots-img]](https://oss.sonatype.org/content/repositories/snapshots/win/doyto/doyto-query-web-common/) | [![web-common-release-img]](https://search.maven.org/artifact/win.doyto/doyto-query-web-common/) |
 | doyto-query-web | [![web-snapshots-img]](https://oss.sonatype.org/content/repositories/snapshots/win/doyto/doyto-query-web/) | [![web-release-img]](https://search.maven.org/artifact/win.doyto/doyto-query-web/) |
-| _**Reactive versions**_ | | |
+| _**Reactive Version**_ | | |
 | doyto-query-reactive-api | [![reactive-api-snapshots-img]](https://oss.sonatype.org/content/repositories/snapshots/win/doyto/doyto-query-reactive-api/) | [![reactive-api-release-img]](https://search.maven.org/artifact/win.doyto/doyto-query-reactive-api/) |
 | doyto-query-r2dbc | [![r2dbc-snapshots-img]](https://oss.sonatype.org/content/repositories/snapshots/win/doyto/doyto-query-r2dbc/) | [![r2dbc-release-img]](https://search.maven.org/artifact/win.doyto/doyto-query-r2dbc/) |
 | doyto-query-webflux | [![webflux-snapshots-img]](https://oss.sonatype.org/content/repositories/snapshots/win/doyto/doyto-query-webflux/) | [![webflux-release-img]](https://search.maven.org/artifact/win.doyto/doyto-query-webflux/) |
@@ -28,10 +28,6 @@ Architecture
   <img alt="architecture-imperative" src="architecture-imperative.png" width="48%">
   <img alt="architecture-reactive" src="architecture-reactive.png" width="47%">
 </div>
-
-License
--------
-This project is under the [Apache Licence v2](https://www.apache.org/licenses/LICENSE-2.0).
 
 [geo-snapshots-img]: https://img.shields.io/nexus/s/win.doyto/doyto-query-geo?color=blue&server=https%3A%2F%2Foss.sonatype.org
 [geo-release-img]: https://img.shields.io/maven-central/v/win.doyto/doyto-query-geo?color=brightgreen
