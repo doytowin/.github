@@ -13,13 +13,8 @@ DoytoQuery Summary
 | doyto-query-jdbc | [![jdbc-snapshots-img]](https://oss.sonatype.org/content/repositories/snapshots/win/doyto/doyto-query-jdbc/) | [![jdbc-release-img]](https://search.maven.org/artifact/win.doyto/doyto-query-jdbc/) |
 | doyto-query-web-common | [![web-common-snapshots-img]](https://oss.sonatype.org/content/repositories/snapshots/win/doyto/doyto-query-web-common/) | [![web-common-release-img]](https://search.maven.org/artifact/win.doyto/doyto-query-web-common/) |
 | doyto-query-web | [![web-snapshots-img]](https://oss.sonatype.org/content/repositories/snapshots/win/doyto/doyto-query-web/) | [![web-release-img]](https://search.maven.org/artifact/win.doyto/doyto-query-web/) |
-| _**Reactive Version**_ | | |
-| doyto-query-reactive-api | [![reactive-api-snapshots-img]](https://oss.sonatype.org/content/repositories/snapshots/win/doyto/doyto-query-reactive-api/) | [![reactive-api-release-img]](https://search.maven.org/artifact/win.doyto/doyto-query-reactive-api/) |
-| doyto-query-r2dbc | [![r2dbc-snapshots-img]](https://oss.sonatype.org/content/repositories/snapshots/win/doyto/doyto-query-r2dbc/) | [![r2dbc-release-img]](https://search.maven.org/artifact/win.doyto/doyto-query-r2dbc/) |
-| doyto-query-webflux | [![webflux-snapshots-img]](https://oss.sonatype.org/content/repositories/snapshots/win/doyto/doyto-query-webflux/) | [![webflux-release-img]](https://search.maven.org/artifact/win.doyto/doyto-query-webflux/) |
-| _**MongoDB**_ | | |
 | doyto-query-mongodb | [![mongodb-snapshots-img]](https://oss.sonatype.org/content/repositories/snapshots/win/doyto/doyto-query-mongodb/) | [![mongodb-release-img]](https://search.maven.org/artifact/win.doyto/doyto-query-mongodb/) |
-| doyto-query-reactive-mongodb | [![reactive-mongodb-snapshots-img]](https://oss.sonatype.org/content/repositories/snapshots/win/doyto/doyto-query-reactive-mongodb/) | [![reactive-mongodb-release-img]](https://search.maven.org/artifact/win.doyto/doyto-query-reactive-mongodb/) |
+
 
 Architecture
 ---
